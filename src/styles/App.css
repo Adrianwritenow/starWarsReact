@@ -9,8 +9,7 @@
 .form{
   text-align: center;
 }
-.wrapper{
+.Wrapper{
   display: flex;
   flex-wrap: wrap;
-
 }

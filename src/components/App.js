@@ -119,22 +119,6 @@ class App extends Component {
                       </ul>
                     </div>
                   </div>
-              //   <div className="col-sm-6" key={vehicle.name}>
-              //     <div className="card">
-              //       <div className="card-block">
-              //         <h4 className="card-title">Specs</h4>
-              //         <h4 className="card-name">{vehicle.name}</h4>
-              //         <h4 className="card-model">Model: {vehicle.model}</h4>
-              //         <h4 className="card-manufacturer">Manufacturer: {vehicle.manufacturer}</h4>
-              //         <h4 className="card-class">Class: {vehicle.class}</h4>
-              //         <h4 className="card-passengers">Passengers: {vehicle.passengers}</h4>
-              //         <h4 className="card-crew">Crew: {vehicle.crew}</h4>
-              //         <h4 className="card-crew">Length: {vehicle.length}</h4>
-              //         <h4 className="card-crew">Max Sped: {vehicle.max_atmosphering_speed}</h4>
-              //         <h4 className="card-crew">Cargo Capacity: {vehicle.cargo_capacity}</h4>
-              //       </div>
-              //     </div>
-              // </div>
             )
             })}
             </div>
